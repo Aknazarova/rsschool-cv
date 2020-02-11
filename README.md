@@ -7,10 +7,6 @@
   <body>
     <article class="post">
       <h1>Красивый кот</h1>
-      <figure class="post-item">
-        <img src="cat.jpg" alt="Изображение кота">
-        <figcaption>Кот красив!</figcaption>
-      </figure>
     </article>
   </body>
 </html>
