@@ -9,11 +9,11 @@ Work email : aknazarova_a@bi.group
 
 *******************
 
- Summary 
+# Summary 
 Work with professional people, find practical application of your knowledge and achieve career growth
 
 *******************
- Skills
+# Skills
 I study at Alem01 school in the city of Nursultan.
 
 ******************
