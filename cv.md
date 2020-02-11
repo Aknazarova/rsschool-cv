@@ -28,3 +28,41 @@ Date of training | Full name of the educational institution | Specialty
 
 *******************
 
+# Experience
+
+29.01.2018 г. – 05.11.2018  - **Trainee analyst** of BI Digital LLP
+
+Responsibilities: 
+
+
+Experience on the 1C platform: ERP enterprise Management 2 for Kazakhstan in modules: Logistics, Mechanization, document Management.
+
+* Identifying the customer's needs (Collecting information by conducting surveys, market research, and interviewing the customer and other interested parties to identify their current and future needs);
+
+* Development of proposals and recommendations;
+
+* Design of the concept in the terms of reference;
+
+* Consulting programmers during product development;
+
+* Resolving disputes with the customer;
+
+* SOFTWARE testing;
+
+* SOFTWARE implementation;
+
+* Training users (both existing and new systems);
+
+* Working with requests for changes/improvements to the existing system;
+
+* Development of instructions and methodological materials.
+
+
+---------------------------------
+05.11.2018-present  -  **Call center specialist** 
+
+
+******************
+# Language
+
+* English - Pre-Intermediate
