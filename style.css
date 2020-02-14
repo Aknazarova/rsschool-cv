@@ -21,5 +21,22 @@ h3 {
     margin-right: auto;
 
 }
+table{
+    border: 1px dashed black;
+    }
+td{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+    .year{
+    font-weight:bold;
+    }
+    .name{
+        font-weight:bold;
+    }
+    .specialty{
+        font-weight:bold;
+    }
 
 
