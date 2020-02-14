@@ -1,0 +1,42 @@
+html,
+body {
+    text-align: left;
+    font-family: 'Sofadi One';
+
+    margin: 0;
+    z-index: 1;
+    padding: 0;
+    
+}
+.img{
+    bottom : 0;
+    right: 0;
+}
+
+h3 {
+    color: #000000;
+    text-align: left;   
+    font-size: 20px; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table{
+    border: 1px dashed black;
+    }
+td{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+    .year{
+    font-weight:bold;
+    }
+    .name{
+        font-weight:bold;
+    }
+    .specialty{
+        font-weight:bold;
+    }
+
+
